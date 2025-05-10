@@ -1,0 +1,1795 @@
+[
+  {
+    "name": "💻 Technology & Development",
+    "description": "Development, infrastructure, and cutting-edge tech solutions",
+    "subcategories": [
+      {
+        "name": "🌐 Web Development",
+        "skills": {
+          "🖥️ Frontend": [
+            {
+              "name": "⚛️ React",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [30, 60, 90, 120],
+                "languages": ["🇬🇧 English", "🇧🇷 Portuguese"],
+                "tags": ["#HotIn2024", "#InDemand"]
+              }
+            },
+            {
+              "name": "🖖 Vue",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 50, 75],
+                "tags": ["#Lightweight"]
+              }
+            },
+            {
+              "name": "🅰️ Angular",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 70, 100],
+                "tags": ["#Enterprise"]
+              }
+            },
+            {
+              "name": "🎨 TailwindCSS",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 40, 60],
+                "tags": ["#Productivity"]
+              }
+            },
+            {
+              "name": "🌀 Svelte",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 55, 80],
+                "tags": ["#Emerging"]
+              }
+            },
+            {
+              "name": "🚀 Web Components",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [35, 65, 95],
+                "tags": ["#Native"]
+              }
+            }
+          ],
+          "🔙 Backend": [
+            {
+              "name": "📡 Node.js",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [35, 65, 100],
+                "tags": ["#JavaScript", "#Scalable"]
+              }
+            },
+            {
+              "name": "🐍 Django",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 75, 110],
+                "tags": ["#Python", "#BatteriesIncluded"]
+              }
+            },
+            {
+              "name": "🎻 Laravel",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 55, 85],
+                "tags": ["#PHP", "#Elegant"]
+              }
+            },
+            {
+              "name": "🐹 Go",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [45, 80, 120],
+                "tags": ["#Performance"]
+              }
+            },
+            {
+              "name": "💎 Ruby on Rails",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 70],
+                "tags": ["#Productivity"]
+              }
+            },
+            {
+              "name": "🔗 Spring Boot",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 85, 130],
+                "tags": ["#Java", "#Enterprise"]
+              }
+            }
+          ],
+          "👨‍💻 Full-Stack": [
+            {
+              "name": "➡️ Next.js",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [45, 80, 120],
+                "tags": ["#React", "#SSR"]
+              }
+            },
+            {
+              "name": "🟢 Nuxt.js",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 70],
+                "tags": ["#Vue", "#SSR"]
+              }
+            },
+            {
+              "name": "🎯 Remix",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 75],
+                "tags": ["#Modern"]
+              }
+            },
+            {
+              "name": "🔥 NestJS",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 90, 130],
+                "tags": ["#TypeScript"]
+              }
+            }
+          ],
+          "⚡ Performance": [
+            {
+              "name": "🏎️ Web Vitals",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 60],
+                "tags": ["#CoreMetrics"]
+              }
+            },
+            {
+              "name": "🗼 Lighthouse",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 45],
+                "tags": ["#Tooling"]
+              }
+            },
+            {
+              "name": "🌐 CDN Optimization",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 70],
+                "tags": ["#Infrastructure"]
+              }
+            },
+            {
+              "name": "⚡ Edge Computing",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 90],
+                "tags": ["#CuttingEdge"]
+              }
+            }
+          ],
+          "🔐 Security": [
+            {
+              "name": "🛡️ OWASP",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 90, 140],
+                "tags": ["#Critical"]
+              }
+            },
+            {
+              "name": "🔒 JWT/OAuth",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 75],
+                "tags": ["#Authentication"]
+              }
+            },
+            {
+              "name": "🚨 Penetration Testing",
+              "meta": {
+                "levels": ["👴 Advanced"],
+                "avg_hourly_rate": [80, 150],
+                "tags": ["#RedTeam"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "📱 Mobile Development",
+        "skills": {
+          "🍏 iOS": [
+            {
+              "name": "🛠️ Swift",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 90, 130],
+                "tags": ["#Apple"]
+              }
+            },
+            {
+              "name": "🖼️ SwiftUI",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 70],
+                "tags": ["#Declarative"]
+              }
+            },
+            {
+              "name": "🛠️ Xcode",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 55],
+                "tags": ["#IDE"]
+              }
+            },
+            {
+              "name": "📱 UIKit",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [45, 80],
+                "tags": ["#Legacy"]
+              }
+            }
+          ],
+          "🤖 Android": [
+            {
+              "name": "♨️ Kotlin",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [40, 75, 110],
+                "tags": ["#Modern"]
+              }
+            },
+            {
+              "name": "🧩 Jetpack Compose",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 65],
+                "tags": ["#Declarative"]
+              }
+            },
+            {
+              "name": "🤖 Android Studio",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 50],
+                "tags": ["#IDE"]
+              }
+            },
+            {
+              "name": "📱 Android SDK",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 80],
+                "tags": ["#Core"]
+              }
+            }
+          ],
+          "🌐 Cross-Platform": [
+            {
+              "name": "🦋 Flutter",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [35, 70, 100],
+                "tags": ["#Dart", "#Google"]
+              }
+            },
+            {
+              "name": "⚛️ React Native",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 60, 90],
+                "tags": ["#JavaScript"]
+              }
+            },
+            {
+              "name": "⚡ Ionic",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 50],
+                "tags": ["#Hybrid"]
+              }
+            },
+            {
+              "name": "💙 Capacitor",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 65],
+                "tags": ["#WebView"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "☁️ Cloud & DevOps",
+        "skills": {
+          "🛠️ Infrastructure": [
+            {
+              "name": "☁️ AWS",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [40, 80, 150],
+                "tags": ["#MarketLeader"]
+              }
+            },
+            {
+              "name": "🔵 GCP",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [45, 85, 140],
+                "tags": ["#Google"]
+              }
+            },
+            {
+              "name": "🔷 Azure",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 75, 130],
+                "tags": ["#Microsoft"]
+              }
+            },
+            {
+              "name": "🟠 Oracle Cloud",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [50, 90],
+                "tags": ["#Enterprise"]
+              }
+            }
+          ],
+          "🐳 Containers": [
+            {
+              "name": "⚓ Kubernetes",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 110, 180],
+                "tags": ["#Orchestration"]
+              }
+            },
+            {
+              "name": "🐳 Docker",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 70],
+                "tags": ["#Containerization"]
+              }
+            },
+            {
+              "name": "🪣 Terraform",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 90, 140],
+                "tags": ["#IaC"]
+              }
+            },
+            {
+              "name": "🚢 Helm",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [45, 80],
+                "tags": ["#K8s"]
+              }
+            }
+          ],
+          "🔄 Automation": [
+            {
+              "name": "🔄 CI/CD Pipelines",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 75],
+                "tags": ["#DevOps"]
+              }
+            },
+            {
+              "name": "🤖 GitHub Actions",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 60],
+                "tags": ["#Automation"]
+              }
+            },
+            {
+              "name": "🛠️ Ansible",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [45, 80],
+                "tags": ["#Configuration"]
+              }
+            },
+            {
+              "name": "⚙️ Jenkins",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 75, 120],
+                "tags": ["#Legacy"]
+              }
+            }
+          ],
+          "🔒 DevSecOps": [
+            {
+              "name": "🔐 HashiCorp Vault",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 110],
+                "tags": ["#Secrets"]
+              }
+            },
+            {
+              "name": "🛡️ Aqua Security",
+              "meta": {
+                "levels": ["👴 Advanced"],
+                "avg_hourly_rate": [70, 130],
+                "tags": ["#CloudSecurity"]
+              }
+            },
+            {
+              "name": "🚦 Falco",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [50, 90],
+                "tags": ["#Monitoring"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "🧠 AI & Data Science",
+        "skills": {
+          "🤖 Machine Learning": [
+            {
+              "name": "🧠 TensorFlow",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 120, 200],
+                "tags": ["#Google"]
+              }
+            },
+            {
+              "name": "🔥 PyTorch",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [65, 130, 210],
+                "tags": ["#Research"]
+              }
+            },
+            {
+              "name": "🐼 Scikit-learn",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 80],
+                "tags": ["#Python"]
+              }
+            },
+            {
+              "name": "🤗 Hugging Face",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [70, 140],
+                "tags": ["#NLP"]
+              }
+            }
+          ],
+          "📊 Data Tools": [
+            {
+              "name": "📊 Tableau",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 60],
+                "tags": ["#Visualization"]
+              }
+            },
+            {
+              "name": "💡 Power BI",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 65],
+                "tags": ["#Microsoft"]
+              }
+            },
+            {
+              "name": "🐍 Pandas",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 50],
+                "tags": ["#DataWrangling"]
+              }
+            },
+            {
+              "name": "🦊 Apache Spark",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 100, 160],
+                "tags": ["#BigData"]
+              }
+            }
+          ],
+          "🗄️ Databases": [
+            {
+              "name": "🗃️ SQL",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [25, 60, 100],
+                "tags": ["#Relational"]
+              }
+            },
+            {
+              "name": "🍃 MongoDB",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 65],
+                "tags": ["#NoSQL"]
+              }
+            },
+            {
+              "name": "🔍 Elasticsearch",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [45, 85, 130],
+                "tags": ["#Search"]
+              }
+            },
+            {
+              "name": "❄️ Snowflake",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 110, 170],
+                "tags": ["#Cloud"]
+              }
+            }
+          ],
+          "📡 Data Engineering": [
+            {
+              "name": "📦 ETL Pipelines",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 90, 140],
+                "tags": ["#DataOps"]
+              }
+            },
+            {
+              "name": "🏗️ Data Lakes",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [55, 100, 150],
+                "tags": ["#Storage"]
+              }
+            },
+            {
+              "name": "🔗 Apache Kafka",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 110, 180],
+                "tags": ["#Streaming"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "📡 Blockchain & Web3",
+        "skills": {
+          "🔗 Blockchain": [
+            {
+              "name": "💰 Solidity",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [80, 150, 250],
+                "tags": ["#SmartContracts"]
+              }
+            },
+            {
+              "name": "🦊 Web3.js",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [70, 130],
+                "tags": ["#JavaScript"]
+              }
+            },
+            {
+              "name": "⚡ Hardhat",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [65, 120],
+                "tags": ["#Development"]
+              }
+            },
+            {
+              "name": "📜 Smart Contracts",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [90, 180, 300],
+                "tags": ["#HighRisk"]
+              }
+            }
+          ],
+          "🌍 Metaverse": [
+            {
+              "name": "🕶️ VR Development",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 110, 170],
+                "tags": ["#Immersive"]
+              }
+            },
+            {
+              "name": "👓 AR Development",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [55, 100],
+                "tags": ["#Mobile"]
+              }
+            },
+            {
+              "name": "🏗️ Unity 3D",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [40, 80, 140],
+                "tags": ["#GameEngine"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "🚀 Low-Code/No-Code",
+        "skills": {
+          "🛠️ Platforms": [
+            {
+              "name": "🫧 Bubble",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 50],
+                "tags": ["#RapidDevelopment"]
+              }
+            },
+            {
+              "name": "🌊 Webflow",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 55],
+                "tags": ["#Designers"]
+              }
+            },
+            {
+              "name": "🅰️ Airtable",
+              "meta": {
+                "levels": ["👶 Beginner"],
+                "avg_hourly_rate": [15, 40],
+                "tags": ["#Spreadsheets"]
+              }
+            },
+            {
+              "name": "🔮 Zapier",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 45],
+                "tags": ["#Automation"]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "📈 Digital Marketing",
+    "description": "Strategies to grow brands and drive engagement",
+    "subcategories": [
+      {
+        "name": "🔍 SEO & Content",
+        "skills": {
+          "⚙️ Technical SEO": [
+            {
+              "name": "🕷️ Crawling",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 65],
+                "tags": ["#Technical"]
+              }
+            },
+            {
+              "name": "📇 Indexing",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 60],
+                "tags": ["#Core"]
+              }
+            },
+            {
+              "name": "🏷️ Schema Markup",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 50],
+                "tags": ["#StructuredData"]
+              }
+            },
+            {
+              "name": "🚀 Core Web Vitals",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 75],
+                "tags": ["#UX"]
+              }
+            }
+          ],
+          "🌍 International": [
+            {
+              "name": "🌐 hreflang",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 70],
+                "tags": ["#Multilingual"]
+              }
+            },
+            {
+              "name": "📍 Geo-Targeting",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 55],
+                "tags": ["#LocalSEO"]
+              }
+            },
+            {
+              "name": "🗣️ Multilingual SEO",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 80],
+                "tags": ["#Global"]
+              }
+            }
+          ],
+          "📈 Analytics": [
+            {
+              "name": "🔍 Google Search Console",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 45],
+                "tags": ["#FreeTool"]
+              }
+            },
+            {
+              "name": "🦅 Ahrefs",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 80],
+                "tags": ["#PaidTool"]
+              }
+            },
+            {
+              "name": "📉 SEMrush",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 70],
+                "tags": ["#CompetitiveAnalysis"]
+              }
+            },
+            {
+              "name": "📊 Google Analytics 4",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 60],
+                "tags": ["#Tracking"]
+              }
+            }
+          ],
+          "✍️ Content": [
+            {
+              "name": "📝 Blog Writing",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [15, 50, 100],
+                "languages": ["🇬🇧 English", "🇧🇷 Portuguese"],
+                "tags": ["#Foundational"]
+              }
+            },
+            {
+              "name": "🔗 Link Building",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 80, 150],
+                "tags": ["#OffPageSEO"]
+              }
+            },
+            {
+              "name": "🎯 Keyword Research",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 50],
+                "tags": ["#Strategy"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "📢 Social Media",
+        "skills": {
+          "📱 Platforms": [
+            {
+              "name": "📘 Facebook Ads",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [25, 60, 120],
+                "tags": ["#Meta"]
+              }
+            },
+            {
+              "name": "📸 Instagram Marketing",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 50, 90],
+                "tags": ["#Visual"]
+              }
+            },
+            {
+              "name": "💼 LinkedIn Ads",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 80],
+                "tags": ["#B2B"]
+              }
+            },
+            {
+              "name": "🎵 TikTok Ads",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 60],
+                "tags": ["#GenZ"]
+              }
+            }
+          ],
+          "🎯 Strategies": [
+            {
+              "name": "🧲 Lead Generation",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 80, 150],
+                "tags": ["#Conversion"]
+              }
+            },
+            {
+              "name": "🔄 Retargeting",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 70],
+                "tags": ["#Remarketing"]
+              }
+            },
+            {
+              "name": "👥 Community Management",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 45],
+                "tags": ["#Engagement"]
+              }
+            },
+            {
+              "name": "📊 Influencer Marketing",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 100, 200],
+                "tags": ["#Partnerships"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "📧 Email Marketing",
+        "skills": {
+          "✉️ Tools": [
+            {
+              "name": "📧 Mailchimp",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 50],
+                "tags": ["#Automation"]
+              }
+            },
+            {
+              "name": "🔗 HubSpot",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 80, 130],
+                "tags": ["#CRM"]
+              }
+            },
+            {
+              "name": "🚀 ActiveCampaign",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 70],
+                "tags": ["#Workflows"]
+              }
+            }
+          ],
+          "📢 Campaigns": [
+            {
+              "name": "🎯 Drip Campaigns",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 65],
+                "tags": ["#Nurturing"]
+              }
+            },
+            {
+              "name": "📈 A/B Testing",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 55],
+                "tags": ["#Optimization"]
+              }
+            },
+            {
+              "name": "📊 Analytics",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 70],
+                "tags": ["#ROI"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "🛒 E-commerce",
+        "skills": {
+          "🛍️ Platforms": [
+            {
+              "name": "🛒 Shopify",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [30, 70, 150],
+                "tags": ["#SaaS"]
+              }
+            },
+            {
+              "name": "🛍️ WooCommerce",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 60],
+                "tags": ["#WordPress"]
+              }
+            },
+            {
+              "name": "📦 Magento",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 100, 180],
+                "tags": ["#Enterprise"]
+              }
+            }
+          ],
+          "📢 Ads": [
+            {
+              "name": "🛒 Google Shopping",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 80],
+                "tags": ["#PLA"]
+              }
+            },
+            {
+              "name": "🔍 Amazon PPC",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [45, 90, 160],
+                "tags": ["#Marketplace"]
+              }
+            },
+            {
+              "name": "📌 Pinterest Ads",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 60],
+                "tags": ["#VisualDiscovery"]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "🎨 Creative Design",
+    "description": "Visual storytelling and brand identity",
+    "subcategories": [
+      {
+        "name": "🖌️ UI/UX Design",
+        "skills": {
+          "🎨 Design Tools": [
+            {
+              "name": "✏️ Figma",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [25, 60, 120],
+                "tags": ["#Collaborative"]
+              }
+            },
+            {
+              "name": "🎨 Sketch",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 65],
+                "tags": ["#MacOnly"]
+              }
+            },
+            {
+              "name": "🖌️ Adobe XD",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 55],
+                "tags": ["#AdobeEcosystem"]
+              }
+            },
+            {
+              "name": "🎛️ Framer",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 80],
+                "tags": ["#Interactive"]
+              }
+            }
+          ],
+          "🧩 Prototyping": [
+            {
+              "name": "🎬 ProtoPie",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [35, 75],
+                "tags": ["#AdvancedInteractions"]
+              }
+            },
+            {
+              "name": "⚡ Principle",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 70],
+                "tags": ["#MicroInteractions"]
+              }
+            },
+            {
+              "name": "🔄 Axure RP",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 100],
+                "tags": ["#ComplexFlows"]
+              }
+            }
+          ],
+          "📱 Mobile UI": [
+            {
+              "name": "📲 Material Design",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 60],
+                "tags": ["#Google"]
+              }
+            },
+            {
+              "name": "🍏 Human Interface",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 70],
+                "tags": ["#Apple"]
+              }
+            },
+            {
+              "name": "🤖 One UI",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 65],
+                "tags": ["#Samsung"]
+              }
+            }
+          ],
+          "📊 UX Research": [
+            {
+              "name": "🧐 User Interviews",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 80],
+                "tags": ["#Qualitative"]
+              }
+            },
+            {
+              "name": "📝 Surveys",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 50],
+                "tags": ["#Quantitative"]
+              }
+            },
+            {
+              "name": "🗺️ Journey Mapping",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [45, 90],
+                "tags": ["#Visualization"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "🎨 Graphic Design",
+        "skills": {
+          "🖼️ Tools": [
+            {
+              "name": "🎨 Photoshop",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [20, 60, 120],
+                "tags": ["#IndustryStandard"]
+              }
+            },
+            {
+              "name": "✏️ Illustrator",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [25, 65, 130],
+                "tags": ["#Vector"]
+              }
+            },
+            {
+              "name": "🖌️ Canva",
+              "meta": {
+                "levels": ["👶 Beginner"],
+                "avg_hourly_rate": [15, 40],
+                "tags": ["#Templates"]
+              }
+            },
+            {
+              "name": "📐 InDesign",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [30, 80],
+                "tags": ["#Publishing"]
+              }
+            }
+          ],
+          "🎯 Specializations": [
+            {
+              "name": "🆔 Logo Design",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [25, 100, 250],
+                "tags": ["#Branding"]
+              }
+            },
+            {
+              "name": "🎨 Brand Identity",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 120, 300],
+                "tags": ["#Strategic"]
+              }
+            },
+            {
+              "name": "📢 Print Design",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 80],
+                "tags": ["#Physical"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "🎬 Video Production",
+        "skills": {
+          "✂️ Editing": [
+            {
+              "name": "🎞️ Premiere Pro",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [30, 80, 180],
+                "tags": ["#IndustryStandard"]
+              }
+            },
+            {
+              "name": "🎬 Final Cut Pro",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [35, 90, 170],
+                "tags": ["#Apple"]
+              }
+            },
+            {
+              "name": "✂️ DaVinci Resolve",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 100, 200],
+                "tags": ["#ColorGrading"]
+              }
+            }
+          ],
+          "🎨 Motion Graphics": [
+            {
+              "name": "🌀 After Effects",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [35, 90, 200],
+                "tags": ["#Animation"]
+              }
+            },
+            {
+              "name": "🖌️ Cinema 4D",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 120, 250],
+                "tags": ["#3D"]
+              }
+            },
+            {
+              "name": "✨ Blender",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 100, 180],
+                "tags": ["#OpenSource"]
+              }
+            }
+          ],
+          "📹 Filming": [
+            {
+              "name": "🎥 Cinematography",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 150, 300],
+                "tags": ["#Artistic"]
+              }
+            },
+            {
+              "name": "💡 Lighting",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 100],
+                "tags": ["#Technical"]
+              }
+            },
+            {
+              "name": "🎤 Audio Production",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [35, 90, 180],
+                "tags": ["#SoundDesign"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "🎙️ Audio & Music",
+        "skills": {
+          "🎧 Podcasting": [
+            {
+              "name": "🎙️ Audacity",
+              "meta": {
+                "levels": ["👶 Beginner"],
+                "avg_hourly_rate": [15, 40],
+                "tags": ["#Free"]
+              }
+            },
+            {
+              "name": "🎚️ Adobe Audition",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [30, 80, 150],
+                "tags": ["#Professional"]
+              }
+            },
+            {
+              "name": "📻 Voiceover",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [20, 100, 300],
+                "languages": ["🇬🇧 English", "🇧🇷 Portuguese"],
+                "tags": ["#Narration"]
+              }
+            }
+          ],
+          "🎵 Music": [
+            {
+              "name": "🎛️ FL Studio",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [25, 80, 200],
+                "tags": ["#HipHop"]
+              }
+            },
+            {
+              "name": "🎹 Ableton Live",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [30, 90, 220],
+                "tags": ["#Electronic"]
+              }
+            },
+            {
+              "name": "🎚️ Mixing/Mastering",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 120, 250],
+                "tags": ["#PostProduction"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "🕹️ Game Design",
+        "skills": {
+          "🎮 Development": [
+            {
+              "name": "🖥️ Unity",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [30, 90, 200],
+                "tags": ["#Indie"]
+              }
+            },
+            {
+              "name": "🚀 Unreal Engine",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 120, 250],
+                "tags": ["#AAA"]
+              }
+            },
+            {
+              "name": "🐍 Godot",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 70],
+                "tags": ["#OpenSource"]
+              }
+            }
+          ],
+          "🎨 Art": [
+            {
+              "name": "🖌️ 2D Sprite Art",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [20, 80, 180],
+                "tags": ["#PixelArt"]
+              }
+            },
+            {
+              "name": "🖥️ 3D Modeling",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 100, 220],
+                "tags": ["#Blender", "#Maya"]
+              }
+            },
+            {
+              "name": "🎭 Character Design",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [35, 120, 250],
+                "tags": ["#ConceptArt"]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "✍️ Writing & Translation",
+    "description": "Content creation and language services",
+    "subcategories": [
+      {
+        "name": "📝 Copywriting",
+        "skills": {
+          "📢 Specializations": [
+            {
+              "name": "📈 SEO Writing",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [20, 60, 150],
+                "languages": ["🇬🇧 English", "🇧🇷 Portuguese"],
+                "tags": ["#Traffic"]
+              }
+            },
+            {
+              "name": "🛒 Product Descriptions",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [15, 40],
+                "tags": ["#Ecommerce"]
+              }
+            },
+            {
+              "name": "📖 Scriptwriting",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 100, 250],
+                "tags": ["#Storytelling"]
+              }
+            }
+          ],
+          "🎯 Tone": [
+            {
+              "name": "🎩 Formal",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 70],
+                "tags": ["#Corporate"]
+              }
+            },
+            {
+              "name": "😎 Casual",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 50],
+                "tags": ["#SocialMedia"]
+              }
+            },
+            {
+              "name": "🤩 Persuasive",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [35, 90, 200],
+                "tags": ["#Sales"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "🌍 Translation",
+        "skills": {
+          "🗣️ Languages": [
+            {
+              "name": "🇬🇧 English",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [15, 50, 120],
+                "tags": ["#Global"]
+              }
+            },
+            {
+              "name": "🇪🇸 Spanish",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [15, 50, 110],
+                "tags": ["#LatinAmerica"]
+              }
+            },
+            {
+              "name": "🇫🇷 French",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [20, 60, 130],
+                "tags": ["#European"]
+              }
+            },
+            {
+              "name": "🇩🇪 German",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [25, 70, 150],
+                "tags": ["#Technical"]
+              }
+            }
+          ],
+          "📌 Specializations": [
+            {
+              "name": "⚖️ Legal",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 120, 250],
+                "tags": ["#Certified"]
+              }
+            },
+            {
+              "name": "💻 Technical",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 90],
+                "tags": ["#Manuals"]
+              }
+            },
+            {
+              "name": "🏥 Medical",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 140, 300],
+                "tags": ["#Specialized"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "📚 Editing",
+        "skills": {
+          "🔍 Types": [
+            {
+              "name": "✂️ Proofreading",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [15, 40],
+                "tags": ["#Grammar"]
+              }
+            },
+            {
+              "name": "🔄 Line Editing",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 60],
+                "tags": ["#Clarity"]
+              }
+            },
+            {
+              "name": "📖 Developmental Editing",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 100, 200],
+                "tags": ["#Structure"]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "💼 Business & Consulting",
+    "description": "Strategic growth and operational excellence",
+    "subcategories": [
+      {
+        "name": "📊 Business Strategy",
+        "skills": {
+          "🚀 Growth": [
+            {
+              "name": "📈 Lean Startup",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 120, 250],
+                "tags": ["#Methodology"]
+              }
+            },
+            {
+              "name": "🔄 Business Model Canvas",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 90],
+                "tags": ["#Planning"]
+              }
+            },
+            {
+              "name": "🎯 OKRs",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [45, 100],
+                "tags": ["#Google"]
+              }
+            }
+          ],
+          "📑 Planning": [
+            {
+              "name": "📊 SWOT Analysis",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [30, 70],
+                "tags": ["#Strategic"]
+              }
+            },
+            {
+              "name": "📉 Market Research",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 100, 200],
+                "tags": ["#DataDriven"]
+              }
+            },
+            {
+              "name": "📑 Business Plans",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 120, 250],
+                "tags": ["#Funding"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "💰 Finance",
+        "skills": {
+          "📉 Tools": [
+            {
+              "name": "📊 Excel",
+              "meta": {
+                "levels": ["👶 Beginner", "👴 Advanced"],
+                "avg_hourly_rate": [20, 80, 200],
+                "tags": ["#Spreadsheets"]
+              }
+            },
+            {
+              "name": "📑 QuickBooks",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [25, 60],
+                "tags": ["#Accounting"]
+              }
+            },
+            {
+              "name": "📈 Tableau",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [40, 100, 180],
+                "tags": ["#Visualization"]
+              }
+            }
+          ],
+          "🎯 Services": [
+            {
+              "name": "📊 Financial Modeling",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 150, 300],
+                "tags": ["#Investments"]
+              }
+            },
+            {
+              "name": "📑 Bookkeeping",
+              "meta": {
+                "levels": ["👶 Beginner", "👨‍💻 Intermediate"],
+                "avg_hourly_rate": [20, 50],
+                "tags": ["#Essential"]
+              }
+            },
+            {
+              "name": "📉 Tax Planning",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [70, 160, 350],
+                "tags": ["#CPA"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "🚀 Startup Consulting",
+        "skills": {
+          "📢 Fundraising": [
+            {
+              "name": "📑 Pitch Decks",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 150, 300],
+                "tags": ["#InvestorReady"]
+              }
+            },
+            {
+              "name": "💵 Venture Capital",
+              "meta": {
+                "levels": ["👴 Advanced"],
+                "avg_hourly_rate": [100, 250, 500],
+                "tags": ["#HighStakes"]
+              }
+            },
+            {
+              "name": "🤝 Investor Relations",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [70, 180, 350],
+                "tags": ["#Networking"]
+              }
+            }
+          ],
+          "🛠️ Operations": [
+            {
+              "name": "📦 Supply Chain",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [50, 120, 250],
+                "tags": ["#Logistics"]
+              }
+            },
+            {
+              "name": "👥 HR Management",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [40, 90],
+                "tags": ["#People"]
+              }
+            },
+            {
+              "name": "📊 Process Optimization",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 140, 280],
+                "tags": ["#Efficiency"]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "name": "🛠️ Other Services",
+    "description": "Niche and emerging skills",
+    "subcategories": [
+      {
+        "name": "🏠 Virtual Assistance",
+        "skills": {
+          "📅 Tasks": [
+            {
+              "name": "📧 Email Management",
+              "meta": {
+                "levels": ["👶 Beginner"],
+                "avg_hourly_rate": [15, 30],
+                "tags": ["#Administrative"]
+              }
+            },
+            {
+              "name": "📅 Calendar Scheduling",
+              "meta": {
+                "levels": ["👶 Beginner"],
+                "avg_hourly_rate": [15, 35],
+                "tags": ["#Coordination"]
+              }
+            },
+            {
+              "name": "📊 Data Entry",
+              "meta": {
+                "levels": ["👶 Beginner"],
+                "avg_hourly_rate": [10, 25],
+                "tags": ["#Repetitive"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "🌿 Sustainability",
+        "skills": {
+          "♻️ Specializations": [
+            {
+              "name": "📊 ESG Reporting",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [60, 140, 280],
+                "tags": ["#CorporateResponsibility"]
+              }
+            },
+            {
+              "name": "🌍 Carbon Footprint",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate"],
+                "avg_hourly_rate": [50, 120],
+                "tags": ["#Climate"]
+              }
+            },
+            {
+              "name": "🔄 Circular Economy",
+              "meta": {
+                "levels": ["👨‍💻 Intermediate", "👴 Advanced"],
+                "avg_hourly_rate": [55, 130, 250],
+                "tags": ["#ZeroWaste"]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

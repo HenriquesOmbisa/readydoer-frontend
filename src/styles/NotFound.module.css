@@ -1,0 +1,181 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #fff 0%, #b8d2fa 100%);
+  overflow: hidden;
+  position: relative;
+}
+
+.main {
+  text-align: center;
+  padding: 2rem;
+  max-width: 600px;
+  position: relative;
+  z-index: 1;
+}
+
+.title {
+  font-size: 6rem;
+  font-weight: 700;
+  color: #333;
+  margin: 1rem 0;
+  text-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+}
+
+.title .bounce {
+  display: inline-block;
+  animation: bounce 1s infinite alternate;
+}
+
+@keyframes bounce {
+  from { transform: translateY(0); }
+  to { transform: translateY(-20px); }
+}
+
+.message {
+  font-size: 1.5rem;
+  color: #555;
+  margin: 2rem 0;
+  min-height: 4rem;
+}
+
+.buttonContainer {
+  width: max-content;
+  position: relative;
+  display: inline-block;
+  margin-top: 2rem;
+  overflow: hidden;
+}
+
+.button {
+  padding: 1rem 2rem;
+  background: linear-gradient(45deg, #6b9fff, #0228ff);
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+  box-shadow: 0 4px 15px rgba(107, 188, 255, 0.4);
+  transition: all 0.3s ease;
+}
+
+.confetti {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Personagem animado */
+.character {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 2rem;
+  position: relative;
+  cursor: pointer;
+}
+
+.characterBody {
+  width: 100%;
+  height: 100%;
+  background: #275ccd;
+  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  position: relative;
+  box-shadow: inset -10px -10px 0 rgba(0,0,0,0.1);
+}
+
+.characterFace {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 3rem;
+  width: 100%;
+  text-align: center;
+}
+
+.faceHappy, .faceNormal {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+/* Nuvem animada */
+.cloud {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  opacity: 0.8;
+}
+
+.cloudShape {
+  width: 100px;
+  height: 60px;
+  background: #fff;
+  border-radius: 50px;
+  position: relative;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.cloudShape:before, .cloudShape:after {
+  content: '';
+  position: absolute;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.cloudShape:before {
+  width: 50px;
+  height: 50px;
+  top: -25px;
+  left: 20px;
+}
+
+.cloudShape:after {
+  width: 30px;
+  height: 30px;
+  top: -15px;
+  right: 20px;
+}
+
+/* Decorações */
+.decorations {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.star {
+  position: absolute;
+  font-size: 1.5rem;
+  opacity: 0.7;
+}
+
+/* Posicionamento aleatório das estrelas */
+.star:nth-child(1) { top: 10%; left: 20%; }
+.star:nth-child(2) { top: 30%; left: 80%; }
+.star:nth-child(3) { top: 70%; left: 10%; }
+.star:nth-child(4) { top: 80%; left: 70%; }
+.star:nth-child(5) { top: 40%; left: 50%; }
+
+/* Efeito de pulso para atenção */
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.main {
+  animation: pulse 6s infinite;
+}
